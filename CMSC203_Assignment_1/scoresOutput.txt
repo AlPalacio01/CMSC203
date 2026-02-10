@@ -1,0 +1,11 @@
+Student: Alejandro Palacio
+Course: CMSC203 Computer Science I
+
+Category Results: 
+	Projects(40%): average = 85.35
+	Quizzes(30%): average = 89.9
+	Exams(30%): average = 93.44
+
+Overall numeric average: 89.14
+Base letter grade: B
+Final letter grade: B+

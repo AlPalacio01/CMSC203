@@ -1,0 +1,11 @@
+Student: Alex Johnson
+Course: CMSC203 Computer Science I
+
+Category Results: 
+	Projects(40%): average = 94.5
+	Quizzes(30%): average = 81.25
+	Exams(30%): average = 88.0
+
+Overall numeric average: 88.57
+Base letter grade: B
+Final letter grade: B+
